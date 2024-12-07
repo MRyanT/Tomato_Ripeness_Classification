@@ -12,6 +12,10 @@
 * Sistem yang memungkinkan deteksi kematangan tomat di lokasi akses internet terbatas, sehingga ideal untuk perkebunan terpencil.
 * Deteksi yang akurat meminimalkan kerusakan produk, meningkatkan kualitas hasil panen, dan mengurangi tingkat kehilangan hasil panen secara nasional.
 
-## Arsitektur Umum Sistem
+## Struktur Sistem
+### Arsitektur Umum
 ![Screenshot 2024-11-13 162834](https://github.com/user-attachments/assets/5623e596-5954-4d13-afc4-718008a1ddbb)
+## Flowchart YOLOv10
+
+## Flowchart GUI
 

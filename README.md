@@ -35,8 +35,13 @@ Link data untuk Training Model : https://drive.google.com/drive/folders/1-ivIpxt
 ![Flowhcart GUI](https://github.com/user-attachments/assets/c87f3d88-0a41-40e9-9deb-09d317df3075)
 
 ## Menjalankan Sistem/Demo
-Sistem ini dapat dioperasikan menggunakan GUI, dimana GUI dapat dijalankan dengan memasukan kode 'streamlit run GUI.py(sesuai dengan nama file)'. Ketika dijalankan, akan membuka window baru pada browser yang akan menampilkan tampilan utama GUI dan memberikan 2 tombol, Live Webcam Detection dan Upload Image File. Disini dapat memilih tombol mana saja untuk menjalakan sistem
+![Tampilan Utama](https://github.com/user-attachments/assets/40a0a9af-7e45-40a3-b6c7-ab65fa77b2e3)
+
+Sistem ini dapat dioperasikan menggunakan GUI, dimana GUI dapat dijalankan dengan memasukan kode 'streamlit run GUI.py(sesuai dengan nama file)'. Ketika dijalankan, akan membuka window baru pada browser yang akan menampilkan tampilan utama GUI dan memberikan 2 tombol, Live Webcam Detection dan Upload Image File.
+
 
 ### Live Webcam Detection
+![Live webcam](https://github.com/user-attachments/assets/975f77d6-fa86-4f7f-aebd-9a5db931f96a)
 
 ### Upload Image file
+![Upload Image](https://github.com/user-attachments/assets/1f07286c-c034-464b-91d9-d1a82e1e4ab9)

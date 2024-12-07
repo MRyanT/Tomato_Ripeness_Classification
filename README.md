@@ -1,6 +1,13 @@
 # Tomato Ripeness Classification
 ![Tomato-Garden](https://github.com/user-attachments/assets/fac1e605-8e4f-42cc-a39b-fc8a5c249035)
 
+## Anggota Kelompok
+* Mikhael Ryan Toar		(215150300111006)
+* Ni Made Ayu Astina Sari	(215150301111035)
+* Mohammad Faiz Musharrif	(215150300111038)
+* Hilmisyah Nabil		(215150307111026)
+* Mush’ab Safirurrasul S	(215150307111040)
+
 ## Domain Projek
 ### Permasalahan
 * Penentuan waktu panen yang tidak akurat menyebabkan kehilangan hasil hingga 20%, menurunkan kualitas produk dan merugikan petani.
@@ -39,7 +46,13 @@ Sistem ini dapat dioperasikan menggunakan GUI, dimana GUI dapat dijalankan denga
 
 
 ### Live Webcam Detection
-![Live webcam](https://github.com/user-attachments/assets/975f77d6-fa86-4f7f-aebd-9a5db931f96a)
+
+https://github.com/user-attachments/assets/b697e18e-47f5-4dee-b645-8391a87677d4
 
 ### Upload Image file
 ![Upload Image](https://github.com/user-attachments/assets/1f07286c-c034-464b-91d9-d1a82e1e4ab9)
+
+## Kesimpulan
+ <div align="justify"> Proyek ini bertujuan untuk mengembangkan sistem berbasis edge yang mampu mendeteksi tingkat kematangan tomat secara otomatis dan akurat. Sistem ini dirancang untuk membantu petani meningkatkan efisiensi panen dan mendorong keberlanjutan dalam pertanian, terutama di sektor urban farming dan perkebunan terpencil. Sistem ini juga bertujuan untuk mengatasi tantangan penentuan waktu panen yang tidak akurat, yang sering kali menyebabkan kehilangan hasil, menurunkan kualitas produk, dan meningkatkan limbah organik.
+
+Pada saat ini, sistem ini berada pada tahap awal dan belum mencapai prototyping. Oleh karena itu, pengembangannya dapat dilanjutkan dengan mengimplementasikan perangkat edge ke dalam sistem. Langkah ini akan memungkinkan sistem untuk mencapai fungsi optimal sesuai kondisi lapangan yang sebenarnya, memberikan solusi yang lebih relevan dan aplikatif bagi petani. </div>

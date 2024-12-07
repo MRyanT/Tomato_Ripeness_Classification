@@ -1,4 +1,4 @@
-# Tomato_Ripeness_Classification
+# Tomato Ripeness Classification
 ![Tomato-Garden](https://github.com/user-attachments/assets/fac1e605-8e4f-42cc-a39b-fc8a5c249035)
 
 ## Domain Projek

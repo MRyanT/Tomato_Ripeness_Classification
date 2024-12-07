@@ -13,9 +13,14 @@
 * Deteksi yang akurat meminimalkan kerusakan produk, meningkatkan kualitas hasil panen, dan mengurangi tingkat kehilangan hasil panen secara nasional.
 
 ## Struktur Sistem
+### Hardware & Software
+* Edge Server : Laptop
+* Edge Device : Webcam
+* Display Result : GUI
+
 ### Arsitektur Umum
 ![Screenshot 2024-11-13 162834](https://github.com/user-attachments/assets/5623e596-5954-4d13-afc4-718008a1ddbb)
-## Flowchart YOLOv10
-
-## Flowchart GUI
-
+### Flowchart YOLOv10
+![Flowchart YOLOv10](https://github.com/user-attachments/assets/fac05567-1ebf-4ee1-a8a9-a52b71ba67d1)
+### Flowchart GUI
+![Flowhcart GUI](https://github.com/user-attachments/assets/c87f3d88-0a41-40e9-9deb-09d317df3075)

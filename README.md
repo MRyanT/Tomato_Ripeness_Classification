@@ -3,8 +3,8 @@
 
 ## Anggota Kelompok
 * Mikhael Ryan Toar		(215150300111006)
-* Ni Made Ayu Astina Sari	(215150301111035)
 * Mohammad Faiz Musharrif	(215150300111038)
+* Ni Made Ayu Astina Sari	(215150301111035)
 * Hilmisyah Nabil		(215150307111026)
 * Mush’ab Safirurrasul S	(215150307111040)
 

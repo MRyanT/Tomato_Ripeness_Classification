@@ -11,7 +11,7 @@ st.title("Tomato Ripeness Classification!")
 st.subheader("Aplikasi ini dibuat agar dapat melihat apakah suatu tomat sudah matang atau belum.")
 
 # atur path sesuai dengan path model hasil training YOLO
-model_path = "D:/Kuliah/Semester 7/Edge Inteligence/Project Akhir/Models/best.pt"
+model_path = "D:/Kuliah/Semester 7/Edge Inteligence/Project Akhir/Models/YOLOv10.pt"
 
 if 'model' not in st.session_state:
     st.session_state.model = YOLO(model_path)

@@ -25,9 +25,11 @@
 * Edge Device : Webcam
 * Display Result : GUI
 ### Dataset
- <div align="justify">Dataset yang digunakan merupakan kumpulan gambar tomat matang dan belum matang yang telah diberi _label/annotasi_ dengan menggunakan roboflow. Roboflow juga digunakan untuk agumentasi data serta menyusun data untuk _Train, Test, dan Validation_ serta mengekspor dataaset dalam bentuk YOLOv10. Dataset tersebut disimpan dalam zip file yang berisi file-file gambar dan yaml file, dimana .yaml file harus diedit agar lokasi _train,test, dan validation_ sesuai dengan lokasi directory gambar-gambar. </div>
-
+ <div align="justify">Dataset yang digunakan merupakan kumpulan gambar tomat matang dan belum matang yang telah diberi _label/annotasi_ dengan menggunakan roboflow. Roboflow juga digunakan untuk agumentasi data serta menyusun data untuk Train, Test, dan Validation serta mengekspor dataaset dalam bentuk YOLOv10. Dataset tersebut disimpan dalam zip file yang berisi file-file gambar dan yaml file, dimana .yaml file harus diedit agar lokasi train,test, dan validation sesuai dengan lokasi directory gambar-gambar. </div>
+<p>Link untuk Dataset : <br>
+https://universe.roboflow.com/comviskesekian/tomato_detection-dciwq-sccs6 </p>
 (file .yaml yang harus di edit)
+
 * train: ../train/images
 * val: ../valid/images
 * test: ../test/images

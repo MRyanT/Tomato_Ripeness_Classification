@@ -1,13 +1,6 @@
 # Tomato Ripeness Classification
 ![Tomato-Garden](https://github.com/user-attachments/assets/fac1e605-8e4f-42cc-a39b-fc8a5c249035)
 
-## Anggota Kelompok
-* Mikhael Ryan Toar		(215150300111006)
-* Mohammad Faiz Musharrif	(215150300111038)
-* Ni Made Ayu Astina Sari	(215150301111035)
-* Hilmisyah Nabil		(215150307111026)
-* Mush’ab Safirurrasul S	(215150307111040)
-
 ## Domain Projek
 ### Permasalahan
 * Penentuan waktu panen yang tidak akurat menyebabkan kehilangan hasil hingga 20%, menurunkan kualitas produk dan merugikan petani.
